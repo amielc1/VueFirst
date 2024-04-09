@@ -1,3 +1,16 @@
+
+[Vue Features](https://www.youtube.com/watch?v=ccsz9FRy-nk&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f "‌") :
+
+1. inject / provide
+2. emits
+3. props
+4. computed
+5. watch
+6. slot
+7. ref
+
+-----
+
 ### Step 1: Install Node.js and npm
 Ensure that you have Node.js and npm (Node Package Manager) installed on your system. Vite requires Node.js (version 12.0.0 or higher). You can check your Node.js and npm versions by running:
 

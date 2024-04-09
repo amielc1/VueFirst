@@ -69,7 +69,7 @@ export default {
       </card>
       <card cardTitle="My second card" content="My content " />
       <card cardTitle="My third card" content="My content " />
-      <!-- <Article
+       <Article
         title="How Write Vue Components"
         :ispublished="false"
         :rating="3"
@@ -83,7 +83,7 @@ export default {
         content="In this post we lern how to write a WPF components, "
       />
       <FormControl formname="Amiel's Form 1" />
-      <GameVue /> -->
+      <GameVue /> 
     </div>
   </v-container>
 </template>
